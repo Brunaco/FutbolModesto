@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Generos on Fútbol Modesto</title>
+    <link>http://example.org/generos/</link>
+    <description>Recent content in Generos on Fútbol Modesto</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>es-ES</language><atom:link href="http://example.org/generos/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Deporte</title>
+      <link>http://example.org/generos/deporte/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://example.org/generos/deporte/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

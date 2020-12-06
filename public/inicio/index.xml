@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Inicios on Futbol Modesto</title>
+    <link>http://example.org/inicio/</link>
+    <description>Recent content in Inicios on Futbol Modesto</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>es-ES</language>
+    <lastBuildDate>Tue, 24 Nov 2020 16:22:08 +0100</lastBuildDate><atom:link href="http://example.org/inicio/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Inicio</title>
+      <link>http://example.org/inicio/portada/</link>
+      <pubDate>Tue, 24 Nov 2020 16:22:08 +0100</pubDate>
+      
+      <guid>http://example.org/inicio/portada/</guid>
+      <description>Fútbol Modesto Este periódico digital tratará sobre la actualidad del fútbol, centrándonos principalmente en categorías modestas. Además hablaremos sobre clubes históricos de nuestro país, de sus hazañas y sus principales jugadores. Hemos elegido este tema para diferenciarnos del resto de medios de comunicación deportivos, que se centran únicamente en las principales ligas y equipos internacionales.</description>
+    </item>
+    
+  </channel>
+</rss>

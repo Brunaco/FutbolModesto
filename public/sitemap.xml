@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  
+  <url>
+    <loc>http://example.org/portada/</loc>
+  </url>
+  
+  <url>
+    <loc>http://example.org/ligas/</loc>
+  </url>
+  
+  <url>
+    <loc>http://example.org/noticias/</loc>
+  </url>
+  
+  <url>
+    <loc>http://example.org/reportajes/</loc>
+  </url>
+  
+  <url>
+    <loc>http://example.org/contacto/</loc>
+  </url>
+  
+  <url>
+    <loc>http://example.org/lugares/alemania/</loc>
+  </url>
+  
+  <url>
+    <loc>http://example.org/generos/deporte/</loc>
+  </url>
+  
+  <url>
+    <loc>http://example.org/lugares/espa%C3%B1a/</loc>
+  </url>
+  
+  <url>
+    <loc>http://example.org/tags/f%C3%BAtbol/</loc>
+  </url>
+  
+  <url>
+    <loc>http://example.org/</loc>
+  </url>
+  
+  <url>
+    <loc>http://example.org/generos/</loc>
+  </url>
+  
+  <url>
+    <loc>http://example.org/lenguajes/</loc>
+  </url>
+  
+  <url>
+    <loc>http://example.org/lugares/</loc>
+  </url>
+  
+  <url>
+    <loc>http://example.org/paises/</loc>
+  </url>
+  
+  <url>
+    <loc>http://example.org/tags/portadas/</loc>
+  </url>
+  
+  <url>
+    <loc>http://example.org/tags/</loc>
+  </url>
+  
+</urlset>

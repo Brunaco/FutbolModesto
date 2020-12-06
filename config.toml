@@ -1,0 +1,19 @@
+baseURL = "https://brunaco.github.io/FutbolModesto/"
+languageCode = "es-ES"
+title = "Fútbol Modesto"
+
+theme = "blog"
+
+SectionPagesMenu = "main"
+
+[taxonomies]
+  tag= "tags"
+  genero= "generos"
+  lugar= "lugares"
+  pais= "paises"
+  lenguaje= "lenguajes"
+  
+
+
+
+

@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Alemania on Fútbol Modesto</title>
+    <link>https://brunaco.github.io/FutbolModesto/lugares/alemania/</link>
+    <description>Recent content in Alemania on Fútbol Modesto</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>es-ES</language><atom:link href="https://brunaco.github.io/FutbolModesto/lugares/alemania/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Reportajes</title>
+      <link>https://brunaco.github.io/FutbolModesto/reportajes/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://brunaco.github.io/FutbolModesto/reportajes/</guid>
+      <description>Esta sección contendrá reportajes sobre clubes históricos de nuestro fútbol, además de entrevistas a jugadores.</description>
+    </item>
+    
+  </channel>
+</rss>

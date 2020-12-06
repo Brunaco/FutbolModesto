@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Ligas on Fútbol Modesto</title>
+    <link>https://brunaco.github.io/FutbolModesto/ligas/</link>
+    <description>Recent content in Ligas on Fútbol Modesto</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>es-ES</language><atom:link href="https://brunaco.github.io/FutbolModesto/ligas/index.xml" rel="self" type="application/rss+xml" />
+  </channel>
+</rss>
